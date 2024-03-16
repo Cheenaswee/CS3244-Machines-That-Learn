@@ -7,7 +7,7 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 
 # Read the CSV file into a pandas DataFrame
-file_path = r'C:\Users\Yan Zhang\OneDrive - National University of Singapore\Desktop\Y3S1\libraryfrontend\resale_flat.csv'
+file_path = r'data/../resale_flat.csv'
 data = pd.read_csv(file_path)
 
 # Convert 'flat_type' and 'flat_model' columns into numerical data
