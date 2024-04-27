@@ -11,9 +11,9 @@ Note: This project is part of our graded coursework in the National University o
    git clone https://github.com/Cheenaswee/CS3244-Machines-That-Learn.git
    ```
 
-2. Our Github repo contains 2 dataset folders and 1 Jupyter Notebook file: CS3244_Notebook
-3. Open the file:CS3244_Notebook in your preferred source-code editor that is able to run Jupyter Notebook
-4. Follow the instructions in the Jupyter Notebook to view the project
+2. Within our GitHub repository, you will find two folders named "dataset" and one Jupyter Notebook file titled "CS3244_Notebook."
+3. Proceed by opening the "CS3244_Notebook" file using your preferred source-code editor, which should support Jupyter Notebook files.
+4. Once opened, carefully follow the instructions outlined in the Jupyter Notebook to explore and engage with our project.
 
 
 <!-- BOTTOM BANNER -->
