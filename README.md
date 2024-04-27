@@ -3,7 +3,7 @@
 Singapore is a land scarce country with a growing population, ultimately leading to increased demand and prices for housing. This machine learning project aims to provide individuals with a tool to estimate resale flat prices. By empowering people to anticipate housing expenses accurately, the project enables strategic planning and exploration of housing options that suit their financial limitations and unique preferences. Leveraging machine learning techniques, the project's core objective is to predict resale flat prices with precision, addressing concerns about affordability effectively.
 
 
-Note: This project is part of our graded coursework in the National University of Singapore module DSA3102:Essential Data Analytics Tools: Convex Optimisation
+Note: This project is part of our graded coursework in the National University of Singapore module CS3244: Machine Learning 2023/24 Sem 2
 
 ## Getting Started
 1. Clone the repo.
