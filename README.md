@@ -17,7 +17,7 @@ Note: This project is part of our graded coursework in the National University o
 
 
 <!-- BOTTOM BANNER -->
-This Full-stack project is built entirely (with love) in
+This Full-stack project is built entirely in
 
 [![Python][Python]][Python-url] 
 
