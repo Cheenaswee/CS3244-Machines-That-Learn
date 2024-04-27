@@ -22,3 +22,6 @@ This Full-stack project is built entirely (with love) in
 [![Python][Python]][Python-url] 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+[Python]: https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+[Python-url]: https://www.python.org
